@@ -72,3 +72,19 @@ h1 {
 }
 
 
+/***work page***/
+
+.directorylink a {
+    text-decoration: none;
+    color: #9dbe3e;
+  }
+  
+  .directorylink a:hover{
+      transition-duration: 0.2s;
+      transition-timing-function: linear;
+      color: #ff2b2b;
+  }
+  
+  .accent {
+      color: #9dbe3e;
+  }
